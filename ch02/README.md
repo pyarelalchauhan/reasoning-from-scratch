@@ -1,4 +1,4 @@
-**Overview of chapter**
+**Overview of chapter 02**
 - Setting up code env
 - How to use tokenizer to prepare input text for an LLM
 - Step by step process of text generation using a pretrained LLM
